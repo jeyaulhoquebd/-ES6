@@ -15,3 +15,12 @@ function add2(num1, num2 = 0){
 }
 
 add2(10, 60);
+
+
+
+function fullName(first, last){
+    const name = first + "" + last;
+    console.log(name);
+}
+
+fullName("Kamruxxaman");
