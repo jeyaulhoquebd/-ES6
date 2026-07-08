@@ -19,8 +19,8 @@ add2(10, 60);
 
 
 function fullName(first, last){
-    const name = first + "" + last;
+    const name = first + '' + last;
     console.log(name);
 }
 
-fullName("Kamruxxaman");
+fullName('Kamruxxaman' , 'Osman');
