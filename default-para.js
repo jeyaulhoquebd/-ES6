@@ -23,4 +23,4 @@ function fullName(first, last){
     console.log(name);
 }
 
-fullName('Kamruxxaman' , 'Osman');
+fullName('Kamruxxaman' , 'affOsman');
